@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9b6bc47a.chunk.css",
+    "main.js": "./static/js/main.e51c7551.chunk.js",
+    "main.js.map": "./static/js/main.e51c7551.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.b206fb79.js",
+    "runtime~main.js.map": "./static/js/runtime~main.b206fb79.js.map",
+    "static/js/2.41cb42ea.chunk.js": "./static/js/2.41cb42ea.chunk.js",
+    "static/js/2.41cb42ea.chunk.js.map": "./static/js/2.41cb42ea.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.561a25aa6b5c056d4b2d2809abc186ae.js": "./precache-manifest.561a25aa6b5c056d4b2d2809abc186ae.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.9b6bc47a.chunk.css.map": "./static/css/main.9b6bc47a.chunk.css.map",
+    "static/media/countryside.jpg": "./static/media/countryside.04be8ab0.jpg"
+  }
+}
